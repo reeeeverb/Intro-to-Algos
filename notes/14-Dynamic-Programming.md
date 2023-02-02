@@ -15,3 +15,5 @@
 #### Example 2 : Matrix Chain Multiplication
 - given a sequence of n matrices to be multiplied compute the product
   - matrices are not neccesarily square
+- multiplication of 3 different rectangaular matrixes Axa \* Bxb \* Cxc does (A\*B\*C)+(a\*b\*c) scalar mutli.
+  - so as you can see, the order does matter
