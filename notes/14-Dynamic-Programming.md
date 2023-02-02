@@ -12,3 +12,6 @@
 - You have a rod of length n and you can cut into any number of pieces each size has a set price, make the most money
 - implementation in cut-rod.py
 
+#### Example 2 : Matrix Chain Multiplication
+- given a sequence of n matrices to be multiplied compute the product
+  - matrices are not neccesarily square
